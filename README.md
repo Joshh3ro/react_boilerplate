@@ -8,6 +8,6 @@
 How to start your project
 
 Get NodeModules
-- NPM Install
+- npm install .
 
-Boom Done
+Boom it's that simple
