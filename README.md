@@ -4,7 +4,7 @@
 
 [GIT](https://git-scm.com/)
 
-## How to do the thing
+## CLI (Command Line Interface)
 How to start your project
 
 Get NodeModules
