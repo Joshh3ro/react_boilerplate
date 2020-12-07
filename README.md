@@ -1,4 +1,4 @@
-### Dependencies
+## Dependencies
 
 [Node.js](https://nodejs.org/en/)
 
